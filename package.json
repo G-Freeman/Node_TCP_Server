@@ -1,0 +1,24 @@
+{
+  "name": "tcp_server",
+  "version": "1.0.0",
+  "description": "*",
+  "main": "tcp_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node tcp_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-Freeman/Node_TCP_Server.git"
+  },
+  "keywords": [
+    "tcp",
+    "server"
+  ],
+  "author": "Dr.Freeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G-Freeman/Node_TCP_Server/issues"
+  },
+  "homepage": "https://github.com/G-Freeman/Node_TCP_Server#readme"
+}
